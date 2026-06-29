@@ -5,12 +5,15 @@ workflows:
     environment:
       java: 17
     scripts:
-      - name: Setup Gradle
+      - name: Install Gradle
         script: |
-          gradle wrapper
+          brew install gradle || true
+      - name: Generate Gradle Wrapper
+        script: |
+          gradle wrapper --gradle-version 8.0
       - name: Build Android APK
         script: |
           chmod +x gradlew
-          ./gradlew assembleDebug
+          ./gradlew assembleDebug --stacktrace
     artifacts:
       - app/build/outputs/apk/debug/app-debug.apk
