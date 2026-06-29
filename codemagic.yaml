@@ -5,9 +5,11 @@ workflows:
     environment:
       java: 17
     scripts:
+      - name: Setup Gradle
+        script: |
+          gradle wrapper
       - name: Build Android APK
         script: |
-          cd $CM_BUILD_DIR
           chmod +x gradlew
           ./gradlew assembleDebug
     artifacts:
