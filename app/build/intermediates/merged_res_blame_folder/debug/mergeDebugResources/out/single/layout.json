@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.tradermindmc.app-mergeDebugResources-45:/layout/fragment_lot_size.xml",
+        "source": "com.tradermindmc.app-main-48:/layout/fragment_lot_size.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.tradermindmc.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-mergeDebugResources-45:/layout/fragment_risk_reward.xml",
+        "source": "com.tradermindmc.app-main-48:/layout/fragment_risk_reward.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-mergeDebugResources-45:/layout/fragment_pip_value.xml",
+        "source": "com.tradermindmc.app-main-48:/layout/fragment_pip_value.xml"
+    }
+]

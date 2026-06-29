@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.tradermindmc.app-debug-46:/layout_fragment_risk_reward.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/layout/fragment_risk_reward.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-debug-46:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-debug-46:/drawable_result_bg.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/drawable/result_bg.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-debug-46:/layout_fragment_lot_size.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/layout/fragment_lot_size.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-debug-46:/layout_activity_main.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-debug-46:/layout_fragment_pip_value.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/layout/fragment_pip_value.xml"
+    },
+    {
+        "merged": "com.tradermindmc.app-debug-46:/drawable_input_bg.xml.flat",
+        "source": "com.tradermindmc.app-main-48:/drawable/input_bg.xml"
+    }
+]
